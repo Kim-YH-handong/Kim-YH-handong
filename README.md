@@ -9,7 +9,7 @@
 - Undergraduate research student at Deep Learning Lab from HGU
 
 ## 🧸 Toy Project
-- Tatto Auto Mosaic AI Model (Pytorch): https://www.notion.so/Tatto-Auto-Mosaic-AI-model-Pytorch-a9add4d7132d4bc289004912c5996365?pvs=4
+- Tatto Auto Mosaic AI Model (Pytorch) [Link] (https://www.notion.so/Tatto-Auto-Mosaic-AI-model-Pytorch-a9add4d7132d4bc289004912c5996365?pvs=4)
 - 
 
 ## 📃 Paper
