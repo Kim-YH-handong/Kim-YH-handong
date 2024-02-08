@@ -13,7 +13,7 @@
 - Movie Recommend System [Web](http://alswhddh.pythonanywhere.com/) Service [무비판](https://github.com/jongmin-oh/movieRecSys) Using Django
 
 ## 📃 Paper
-- Doughho Park, Younghun Kim, Harim Kang, Junmyeoung Lee, Jinyoung Choi, Taeyeon Kim, Sangeok Lee, Seokil Son, Minsol Kim, and Injung Kim, "PECI-Net: Bolus segmentation from video fluoroscopic swallowing study images using preprocessing ensemble and cascaded inference," In revision, **Computers in Biology and Medicine**, Jan. 2024.
+- Doughho Park, Younghun Kim, Harim Kang, Junmyeoung Lee, Jinyoung Choi, Taeyeon Kim, Sangeok Lee, Seokil Son, Minsol Kim, and Injung Kim, "PECI-Net: Bolus segmentation from video fluoroscopic swallowing study images using preprocessing ensemble and cascaded inference," In revision, **Computers in Biology and Medicine**, Jan. 2024. (Impact Factor: 7.7)
   
 ## 🚀 Technical Skills
 
