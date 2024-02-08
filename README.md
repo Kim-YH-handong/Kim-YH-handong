@@ -5,7 +5,7 @@
 - CILAB (Computer Intelligence Lab) from KAIST
 ## 💼 In the past
 
-- B.S. degree in Computer Science at Handong Global University
+- B.S. degree in Computer Science at Handong Global University (Major GPA: 4.26/4.5)
 - Undergraduate research student at Deep Learning Lab from HGU
 
 ## 🧸 Toy Project
