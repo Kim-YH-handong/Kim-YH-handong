@@ -25,7 +25,7 @@
 
 [![Language](https://img.shields.io/badge/Language-Python-blue)]()
 [![DL Framework](https://img.shields.io/badge/DL%20Framework-Pytorch-yellow)]()
-[![Flutter](https://img.shields.io/badge/Flutter-Flutter-green)]()
+[![Flutter](https://img.shields.io/badge/App-Flutter-green)]()
 [![Firebase](https://img.shields.io/badge/Backend-Firebase-red)]()
 
 ## 💡 Interests
