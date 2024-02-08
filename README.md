@@ -9,8 +9,8 @@
 - Undergraduate research student at Deep Learning Lab from HGU
 
 ## 🧸 Toy Project
-- Operating a KakaoTalk [chatbot](http://pf.kakao.com/_BNZRb) Streamlit [WEB](https://comfort.j5ng.com/) named ["위로봇 오복이"](https://github.com/jongmin-oh/comfort_chatbot)
-- Movie Recommend System [Web](http://alswhddh.pythonanywhere.com/) Service [무비판](https://github.com/jongmin-oh/movieRecSys) Using Django
+- Tatto Auto Mosaic AI Model (Pytorch): https://www.notion.so/Tatto-Auto-Mosaic-AI-model-Pytorch-a9add4d7132d4bc289004912c5996365?pvs=4
+- 
 
 ## 📃 Paper
 - Doughho Park, Younghun Kim, Harim Kang, Junmyeoung Lee, Jinyoung Choi, Taeyeon Kim, Sangeok Lee, Seokil Son, Minsol Kim, and Injung Kim, "PECI-Net: Bolus segmentation from video fluoroscopic swallowing study images using preprocessing ensemble and cascaded inference," In revision, **Computers in Biology and Medicine**, Jan. 2024. (Impact Factor: 7.7)
