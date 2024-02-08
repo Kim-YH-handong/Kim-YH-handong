@@ -1,13 +1,13 @@
 # Hello! Nice to meet you. 👋
 
 ## 👨‍💼 Currently
-- M.S. degree in Graduate School of Green Growth and Sustainability from KAIST <br>
-- CILAB (Computer Intelligence Lab) from KAIST
+- Research student at CILAB (Computer Intelligence Lab) from KAIST
 ## 💼 In the past
-
-- B.S. degree in Computer Science at Handong Global University (Major GPA: 4.26/4.5)
 - Undergraduate research student at Deep Learning Lab from HGU
 
+## 📚 Education
+- B.S. degree in Computer Science at Handong Global University (Major GPA: 4.26/4.5)
+- M.S. degree in Graduate School of Green Growth and Sustainability from KAIST (2026 Expected)
 ## 🧸 Toy Project
 - Medical Segmentation AI Model (Pytorch) [[Link]](https://www.notion.so/Bolus-Segmentation-AI-Model-Pytorch-Capstone-Festival-Grand-prize-f945cd6c1a214d4caf5fe46c730aff1c?pvs=4)
 - Tatto Auto Mosaic AI Model (Pytorch) [[Link]](https://www.notion.so/Tatto-Auto-Mosaic-AI-model-Pytorch-a9add4d7132d4bc289004912c5996365?pvs=4)
