@@ -39,3 +39,8 @@
 
 ## 📫 Contact
 
+✉️ Mail
+younghun1664@kaist.ac.kr
+dudgjs4248@gmail.com
+
+
