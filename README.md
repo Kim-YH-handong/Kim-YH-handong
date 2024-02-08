@@ -1,11 +1,11 @@
 # Hello! Nice to meet you. 👋
 
 ## 👨‍💼 Currently
-- M.S. KAIST <br>
-
+- M.S. degree in Graduate School of Green Growth and Sustainability from KAIST <br>
+- CILAB (Computer Intelligence Lab) from KAIST
 ## 💼 In the past
 
-- B.S. Handong Global University
+- B.S. degree in Computer Science at Handong Global University
 - Undergraduate research student at Deep Learning Lab 
 
 ## 🧸 Toy Project
